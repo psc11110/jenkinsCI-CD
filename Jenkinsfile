@@ -32,7 +32,7 @@ pipeline {
 
         // IMPORTANT: Replace 'yourimagename' with your desired image name.
 
-        IMAGE_NAME = "psc11110/myjenkinsminiapp"
+        IMAGE_NAME = "psc1234/myjenkinsminiapp"
 
         // ID of the Docker Hub credentials stored in Jenkins (see Step 1)
 
